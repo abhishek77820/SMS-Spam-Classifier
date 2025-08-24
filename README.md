@@ -42,15 +42,4 @@ Dataset used: **SMS Spam Collection Dataset**
 
 ---
 
-## ⚡ How to Run Locally
-```bash
-# Clone repository
-git clone <your-fork-link>
-cd sms-spam-classifier-main
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run app
-python app.py
 
